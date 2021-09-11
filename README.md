@@ -7,6 +7,7 @@ Licence | OSHWA
 
 ### PCB:
 KiCad 5.99
+
 [ibom daughterboard](https://files.0xcb.dev/0xCB/SL-060-PCB/daughterboard.html)
 
 [ibom hotswap pcb](https://files.0xcb.dev/0xCB/SL-060-PCB/pcb-hotswap.html)
