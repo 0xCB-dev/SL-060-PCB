@@ -399,7 +399,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../Downloads/pcb-hotswap.step",
+      "step": "../../../../Downloads/pcb-hotswap.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

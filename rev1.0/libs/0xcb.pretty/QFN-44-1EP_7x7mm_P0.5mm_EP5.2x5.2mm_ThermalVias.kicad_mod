@@ -1,5 +1,5 @@
 (footprint "QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias" (version 20210824) (generator pcbnew) (layer "F.Cu")
-  (tedit 61379C22)
+  (tedit 6140D794)
   (descr "QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "QFN NoLead")
   (property "Sheetfile" "1337-v3.0.kicad_sch")
@@ -108,7 +108,7 @@
   (pad "45" thru_hole circle (at -1.175 1.175) (size 0.5 0.5) (drill 0.3) (layers *.Cu) (tstamp db17ca85-feaa-4de1-be3a-815564f2dbda))
   (pad "45" thru_hole circle (at -2.35 0) (size 0.5 0.5) (drill 0.3) (layers *.Cu) (tstamp fdad6701-f968-4259-b24d-1608b0f280c9))
   (pad "45" thru_hole circle (at 2.35 -2.35) (size 0.5 0.5) (drill 0.3) (layers *.Cu) (tstamp ffb5a7cd-6b6b-4471-9566-67000d21298d))
-  (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
