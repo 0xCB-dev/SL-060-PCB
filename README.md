@@ -18,7 +18,7 @@ Top | Bottom
 
 [ibom hotswap pcb](https://files.0xcb.dev/0xCB/SL-060-PCB/pcb-hotswap.html)
 
-[ibom soldered pcb](https://files.0xcb.dev/0xCB/SL-060-PCB/pcb-solder.html)
+[ibom soldered pcb](https://files.0xcb.dev/0xCB/SL-060-PCB/pcb-soldered.html)
 
 ##### Daughterboard
 
