@@ -1373,7 +1373,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 137.16 28.067 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid c4cb6185-19b3-4508-b52c-56e497113e3d)
     (property "Reference" "PB0" (id 0) (at 138.557 26.4159 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1391,7 +1391,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 137.16 77.597 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 13e04d5d-7567-4cb9-94fa-329d9338d4ad)
     (property "Reference" "PE6" (id 0) (at 138.557 79.2479 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1409,7 +1409,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 137.16 94.107 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 8f7c1ca9-d1ad-497d-8b10-bda585bdf7c8)
     (property "Reference" "PF7" (id 0) (at 138.684 95.8849 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1762,7 +1762,7 @@
   )
 
   (symbol (lib_id "Connector:AVR-ISP-6") (at 160.274 30.607 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid e492ac96-b090-490b-8e86-ee5d7177fca6)
     (property "Reference" "J1" (id 0) (at 168.91 30.6069 0)
       (effects (font (size 1.27 1.27)) (justify right))
