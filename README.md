@@ -8,6 +8,17 @@ Licence | OSHWA
 ### PCB:
 KiCad version 6 Stable
 
+#### Daughterboard
+Top | Bottom
+:-------------------------:|:-------------------------:
+![](https://github.com/0xCB-dev/SL-060-PCB/blob/main/rev1.0/daughterboard.top.png)  |  ![](https://github.com/0xCB-dev/SL-060-PCB/blob/main/rev1.0/daughterboard.bottom.png)
+
+#### Soldered PCB
+Top | Bottom
+:-------------------------:|:-------------------------:
+![](https://github.com/0xCB-dev/SL-060-PCB/blob/main/rev1.0/pcb-solder.top.png)  |  ![](https://github.com/0xCB-dev/SL-060-PCB/blob/main/rev1.0/pcb-solder.bottom.png)
+
+#### Hotswap PCB
 Top | Bottom
 :-------------------------:|:-------------------------:
 ![](https://github.com/0xCB-dev/SL-060-PCB/blob/main/rev1.0/pcb-hotswap.top.png)  |  ![](https://github.com/0xCB-dev/SL-060-PCB/blob/main/rev1.0/pcb-hotswap.bottom.png)
