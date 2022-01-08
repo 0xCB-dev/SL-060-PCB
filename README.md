@@ -6,7 +6,7 @@ Licence | OSHWA
 ![](https://github.com/0xCB-dev/sl-060-pcb/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/SL-060-PCB/blob/main/rev1.0/OSHWA.svg)](https://certification.oshwa.org/de000116.html)
 
 ### PCB:
-KiCad version 5.99
+KiCad version 6 Stable
 
 Top | Bottom
 :-------------------------:|:-------------------------:

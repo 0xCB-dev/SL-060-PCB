@@ -1,8 +1,8 @@
 M48
-; DRILL file {KiCad (5.99.0-12192-g74b8f14ec3)} date Sun Sep 19 19:10:11 2021
+; DRILL file {KiCad 6.0.0-rc1-unknown-caf406943e~144~ubuntu21.04.1} date Mon 13 Dec 2021 06:45:08 PM CET
 ; FORMAT={-:-/ absolute / metric / decimal}
-; #@! TF.CreationDate,2021-09-19T19:10:11+02:00
-; #@! TF.GenerationSoftware,Kicad,Pcbnew,(5.99.0-12192-g74b8f14ec3)
+; #@! TF.CreationDate,2021-12-13T18:45:08+01:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,6.0.0-rc1-unknown-caf406943e~144~ubuntu21.04.1
 ; #@! TF.FileFunction,MixedPlating,1,2
 FMAT,2
 METRIC

@@ -1,4 +1,4 @@
-19723593193289646
+19785451904277143
 0xCB
 0xCB
 
@@ -41363,6 +41363,13 @@ RJ45 Magjack
 14
 13
 Connector_RJ
+RJ45_Kycon_G7LX-A88S7-BP-xx_Horizontal
+10/100Base-T RJ45 ethernet magnetic transformer connector horizontal with green/yellow LEDs http://www.kycon.com/Pub_Eng_Draw/G7LX-A88S7-BP-GY.pdf
+RJ45 ethernet magnetic
+0
+16
+15
+Connector_RJ
 RJ45_Molex_0855135013_Vertical
 1 Port, RJ45, Series 85513, vertical, SMD, https://www.molex.com/pdm_docs/sd/855135013_sd.pdf
 RJ45 Vertical
@@ -48097,6 +48104,13 @@ dcdc traco 5w
 6
 6
 Converter_DCDC
+Converter_DCDC_TRACO_TEL12-xxxx_THT
+Traco 12W, THT (https://www.tracopower.com/sites/default/files/products/datasheets/tel12_datasheet.pdf)
+traco dcdc tht 12w
+0
+5
+5
+Converter_DCDC
 Converter_DCDC_TRACO_TEN10-xxxx_Dual_THT
 DCDC-Converter, TRACO, TEN10-xxxx, single output, https://assets.tracopower.com/20171102100522/TEN10/documents/ten10-datasheet.pdf
 DCDC-Converter TRACO TEN10-xxxx single output
@@ -50004,6 +50018,13 @@ Diode_SMD
 Diode_Bridge_Diotec_SO-DIL-Slim
 SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf
 DFS SO-DIL Slim
+0
+4
+4
+Diode_SMD
+Diode_Bridge_OnSemi_SDIP-4L
+SMD diode bridge OnSemi SDIP-4L, see https://www.onsemi.com/pdf/datasheet/df10s1-d.pdf
+OnSemi Diode Bridge SDIP-4L
 0
 4
 4
@@ -83397,6 +83418,13 @@ Transformer Ethernet SMD
 0
 24
 24
+Transformer_SMD
+Transformer_Ethernet_Wuerth_749013011A
+Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf
+Ethernet Transformer
+0
+16
+16
 Transformer_SMD
 Transformer_MACOM_SM-22
 https://cdn.macom.com/datasheets/ETC1-1-13.pdf
