@@ -401,7 +401,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/pcb-solder.step",
+      "step": "pcb-solder.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
