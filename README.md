@@ -33,18 +33,18 @@ Top | Bottom
 
 ##### Daughterboard
 
-| References | Value        | Footprint             | Quantity | Mouser                 |
-|------------|--------------|-----------------------|----------|------------------------|
-| J1         | USB4120-03-C | GCT_USB4120-03-C_REVA | 1        |  640-USB4120-03-C      |
-| J2         | Conn_01x04   | JST-SR-4              | 1        |  485-4208              |
-| R1, R2     | 5.1k         | R_0603_1608Metric     | 2        |  667-ERA-3AED512V      |
-| R3, R4     | 22           | R_0603_1608Metric     | 2        |  754-RG1608Q-220DT5    |
-| U1         | USBLC6-2SC6  | SOT-23-6              | 1        |  511-USBLC6-2SC6       |
-| C1         | 10u          | C_0603_1608Metric     | 1        |  80-C0603C106M8PLR     |
-| C2         | 1u           | C_0603_1608Metric     | 1        |  81-GCG188L8EE105KA7D  |
-| F1         | 3A           | Fuse_0805_2012Metric  | 1        |  652-MF-PSML150/6-2    |
-| D1         | SMF5.0CA     | D_SOD-123F            | 1        |  576-SMF5.0CA          |
-| FB1, FB2   | 600R         | Ferrite_Bead_0603     | 2        |  81-BLM18KN601EH1D     |
+| References | Value        | Footprint              | Quantity | Mouser                 |
+|------------|--------------|------------------------|----------|------------------------|
+| J1         | USB4120-03-C | GCT_USB4070-30-C_REVC5 | 1        |  640-USB4070-30-C      |
+| J2         | Conn_01x04   | JST-SR-4               | 1        |  485-4208              |
+| R1, R2     | 5.1k         | R_0603_1608Metric      | 2        |  667-ERA-3AED512V      |
+| R3, R4     | 22           | R_0603_1608Metric      | 2        |  754-RG1608Q-220DT5    |
+| U1         | USBLC6-2SC6  | SOT-23-6               | 1        |  511-USBLC6-2SC6       |
+| C1         | 10u          | C_0603_1608Metric      | 1        |  80-C0603C106M8PLR     |
+| C2         | 1u           | C_0603_1608Metric      | 1        |  81-GCG188L8EE105KA7D  |
+| F1         | 3A           | Fuse_0805_2012Metric   | 1        |  652-MF-PSML150/6-2    |
+| D1         | SMF5.0CA     | D_SOD-123F             | 1        |  576-SMF5.0CA          |
+| FB1, FB2   | 600R         | Ferrite_Bead_0603      | 2        |  81-BLM18KN601EH1D     |
 
 ##### Soldered PCB
 
