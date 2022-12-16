@@ -70,31 +70,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "pcb-hotswap.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 597,
-          "pos_y": 480,
-          "size_x": 1280,
-          "size_y": 590
-        }
-      },
-      {
-        "name": "pcb-hotswap.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 2560,
-          "pos_y": 0,
-          "size_x": 1072,
-          "size_y": 1432
-        }
-      }
-    ]
+    "files": []
   }
 }
