@@ -1,12 +1,14 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 31,
     "active_layer_preset": "All Copper Layers",
     "auto_track_width": true,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
+      "images": 0.6,
       "pads": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
@@ -39,7 +41,6 @@
       11,
       12,
       13,
-      14,
       15,
       16,
       17,
@@ -60,9 +61,11 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40
     ],
-    "visible_layers": "0001000_ffffffff",
+    "visible_layers": "0001040_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
@@ -77,22 +80,22 @@
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": 597,
-          "pos_y": 480,
+          "pos_x": 644,
+          "pos_y": 971,
           "size_x": 1280,
-          "size_y": 590
+          "size_y": 693
         }
       },
       {
         "name": "pcb-solder.kicad_sch",
-        "open": true,
+        "open": false,
         "window": {
-          "display": 1,
+          "display": 0,
           "maximized": true,
-          "pos_x": 2560,
-          "pos_y": 0,
-          "size_x": 1072,
-          "size_y": 1432
+          "pos_x": 483,
+          "pos_y": 907,
+          "size_x": 1698,
+          "size_y": 910
         }
       }
     ]
