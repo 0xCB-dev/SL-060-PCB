@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"JST-SR-4";1;"Conn_01x04";;;
+2;"C2";"C_0603_1608Metric";1;"1u";;;
+3;"D1";"D_SOD-123F";1;"SMF5.0CA";;;
+4;"FB1,FB2";"Ferrite_Bead_0603";2;"600R";;;
+5;"U1";"SOT-23-6";1;"USBLC6-2SC6";;;
+6;"R1,R2";"R_0603_1608Metric";2;"5.1k";;;
+7;"F1";"Fuse_0805_2012Metric";1;"3A";;;
+8;"H2,H1";"MountingHole_2.2mm_M2_Pad";2;"MountingHole_Pad";;;
+9;"R3,R4";"R_0603_1608Metric";2;"22";;;
+10;"C1";"C_0603_1608Metric";1;"10u";;;
+11;"J1";"GCT_USB4070-30-C_REVC5";1;"USB4070-30-C";;;
