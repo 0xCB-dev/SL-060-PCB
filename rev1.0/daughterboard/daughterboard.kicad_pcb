@@ -2762,7 +2762,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3d0a8609-a059-4734-b988-da00f509164d)
     )
-    (fp_text value "USB4120-03-C" (at 9.47 -4.135 270) (layer "B.Fab")
+    (fp_text value "USB4070-30-C" (at 9.47 -4.135 270) (layer "B.Fab")
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 338b7824-6fa7-42ef-b79a-c6dc90689f4e)
     )
